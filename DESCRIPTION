@@ -1,0 +1,15 @@
+Package: conversion
+Type: Package
+Title: Unit Converter
+Version: 0.1.0
+Author: Ania
+Maintainer: Ania <yourself@somewhere.net>
+Description: Conversion of units.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr
+Suggestions:
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
